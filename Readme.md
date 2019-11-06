@@ -67,3 +67,12 @@ g clone "codigo ssh" "nome da pasta que quer colocar os arquivos"
 
 -------------------------------------------------------------------------------
 
+Criação de Branch
+O que é uma Branch <-- é um ponteiro que leva um commit
+Ele cria um ponteiro que pode apontar para o ponteiro master que a branch principal do projeto.
+Vantagens: 
+--Pode modificar sem alterar o local principal (master)
+--Facilmente "desligavel" <-- como ele não impacta diretamente ao projeto, ele pode facilmente ser deletado ou desfeito sem atrapalhar o serviço que outras pessoas estão fazendo em outra branch.
+--Mutliplas pessoas trabalhando <-- Cada um cria uma branch e todos trabalham em conjunto sem problemas. Onde cada alteração acontece de forma separada. 
+--Evita conflitos <-- Como as pessoas trabalham em branchs separadas não há concorrencia de uso de arquivo e modificação. Onde e somente feita após o tratamento dos conflitos pela mesclagem dos arquivos (MERGE).
+
