@@ -49,3 +49,9 @@ tem 3 tipos o
 
 ex: git reset --soft "codigo hash" <-- lembrar de sempre escolher um antes do que você deseja mudar/alterar. 
 
+--------------------------------------------------------------------------------
+
+para enviar as coisas para o github para atualizar precisa fazer o comando
+git push "repositorio remoto" "branch atual"(master se for a principal)
+
+
