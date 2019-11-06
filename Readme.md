@@ -52,6 +52,18 @@ ex: git reset --soft "codigo hash" <-- lembrar de sempre escolher um antes do qu
 --------------------------------------------------------------------------------
 
 para enviar as coisas para o github para atualizar precisa fazer o comando
+
 git push "repositorio remoto" "branch atual"(master se for a principal)
 
+--------------------------------------------------------------------------------
+pra clonar um repositorio do github para a maquina é necessario fazer o seguinte
+
+copiar o codigo ssh do repositorio no github. ir até o bash
+sair da pasta do repositorio local e ir até um local do computador.
+Depois disso digite o seguinte comando
+
+g clone "codigo ssh" "nome da pasta que quer colocar os arquivos"
+
+
+-------------------------------------------------------------------------------
 
