@@ -76,3 +76,15 @@ Vantagens:
 --Mutliplas pessoas trabalhando <-- Cada um cria uma branch e todos trabalham em conjunto sem problemas. Onde cada alteração acontece de forma separada. 
 --Evita conflitos <-- Como as pessoas trabalham em branchs separadas não há concorrencia de uso de arquivo e modificação. Onde e somente feita após o tratamento dos conflitos pela mesclagem dos arquivos (MERGE).
 
+para criar um Branch e so digitar o comando
+git checkou -b "nome da branch"
+e pronto o mesmo ja criou uma branch nova e está nela atualmente.
+
+digitando
+git branch <-- ele mostra todos os branchs existentes e o que tem asterisco e qual branch você está atualmente.
+
+para alterar de branch é simples você deve usar o comando
+git checkout "nome da branch"
+
+se caso deseja apagar uma branch, voce deve fazer o seguinte comando:
+git branch -D (precisa ser maiusculo) "nome da branch"
