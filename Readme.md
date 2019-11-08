@@ -8,6 +8,19 @@ Saiba mais no link: bla bla bla
 
 Teste do git diff
 
+Para criar uma conexão remota do git local com o github precisa fazer os seguintes passos.
+
+git remote add "nome qualquer" "ssh do diretorio github"
+verificar se fez digitando o seguinte comando
+
+git remote <-- ira listar suas conexões remotas.
+
+git remote -v <-- mostra os links detalhados.
+
+Para puxar as informações do repositorio github e so digitar o seguinte comando:
+
+git pull "nome da conexão remota" "nome da branch"
+
 ----------------------------------------------------------------------
 
 editor de texto direto do prompt do git é o comando vim ou vi
@@ -92,3 +105,5 @@ git branch -D (precisa ser maiusculo) "nome da branch"
 Alteração Teste Computador Mult.
 Verificação de Teste Pull
 ok.
+
+testar em casa se consigo puxar essa informacao. se ela vier com pull será um grande avanço.
