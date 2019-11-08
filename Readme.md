@@ -111,3 +111,20 @@ testar em casa se consigo puxar essa informacao. se ela vier com pull será um g
 commit do branch master.
 
 Teste Branch
+
+---------------------------------------------------------------------------
+
+Lembrar de fazer o pull na branch master sempre antes, pois pode haver alterações feitas pela outra pessoa.
+
+git pull "nome da conexao remota" master
+
+Funções do Merge
+
+git merge "nome da branch"(nome da outra branch que você ira criar para fazer as alterações e etc). <-- o merge tem que ser feito na branch master.
+
+vai aparecer uma tela informando que vai mesclar a branch na master.
+clicar em esc e :wq
+e prosseguir.
+
+depois disso é só fazer o push <-- enviar os arquivos para o github.
+git push "nome da conexao remota" master
