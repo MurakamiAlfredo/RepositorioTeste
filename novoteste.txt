@@ -1,0 +1,2 @@
+Novo teste de inserção de merge no branch master
+
