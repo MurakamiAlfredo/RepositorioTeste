@@ -88,3 +88,7 @@ git checkout "nome da branch"
 
 se caso deseja apagar uma branch, voce deve fazer o seguinte comando:
 git branch -D (precisa ser maiusculo) "nome da branch"
+
+Alteração Teste Computador Mult.
+Verificação de Teste Pull
+ok.
