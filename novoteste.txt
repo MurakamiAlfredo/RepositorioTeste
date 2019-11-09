@@ -1,2 +1,4 @@
-Novo teste de inserção de merge no branch master
+﻿Novo teste de inserção de merge no branch master
 
+testes com alteração do arquivo
+asdfasdfasdfasdfasd
